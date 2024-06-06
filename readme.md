@@ -6,6 +6,6 @@
 ### Statistics 📊
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauletxz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauletxz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+##
 ### Visits 👓
 ![Visitor Count](https://profile-counter.glitch.me/{pauletxz}/count.svg)
