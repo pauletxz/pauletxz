@@ -5,3 +5,6 @@
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_h667/)
+
+
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauletxz&show_icons=true&theme=dark)
