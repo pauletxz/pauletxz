@@ -1,11 +1,30 @@
-### Hello World !!🗺️
+## Languages
 
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/857462802377474078)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_h667/)
-##
-### Statistics 📊
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauletxz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauletxz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-##
-### Visits 👓
-![Visitor Count](https://profile-counter.glitch.me/{pauletxz}/count.svg)
+### Web
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" alt="HTML Logo" />](https://html.spec.whatwg.org/multipage/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" alt="CSS Logo" />](https://www.w3.org/TR/CSS/#css)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" alt="Laravel Logo" />](https://laravel.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32px" alt="Php Logo" />](https://www.learn-php.org/)
+          
+
+### Mobile
+
+#### WORKING..
+
+### Other
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32px" alt="C Logo" />](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32px" alt="C Logo" />](https://docs.python.org/3/)
+          
+
+
+
+## Tools
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32px" alt="Vs Logo" />](https://code.visualstudio.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="32px" alt="PyCharm Logo" />](https://www.jetbrains.com/pycharm/download)
+[<<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  width="32px" alt="Visual Studio Logo" />](https://visualstudio.microsoft.com/pt-br/vs/community/)
+          
+          
+          
