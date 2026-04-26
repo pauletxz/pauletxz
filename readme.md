@@ -21,9 +21,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36px" alt="Python" title="Python" />](https://docs.python.org/3/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36px" alt="C" title="C" />](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
 
-### 📱 Mobile
-> 🚧 Working...
-
 ---
 
 ## 🗄️ Databases
